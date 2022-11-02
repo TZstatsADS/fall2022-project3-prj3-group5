@@ -18,7 +18,7 @@ Term: Fall 2022
 **Contribution statement**:
 + All members contributed in developing the approach of model building
 + Sangmin Lee, Donglai Xu, Yayuan Wang: research on ResNet50, model I development, split test and train on noisy labels
-+ Ferra Suryani, Woonsup Kim (presenter): transfer learning implementation, research on VGG16, model II development
++ Yayuan Wang, Ferra Suryani, Woonsup Kim (presenter): Develop weakly supervising learning, and add label corrections before implementing model I. 
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
