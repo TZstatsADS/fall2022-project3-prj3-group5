@@ -17,7 +17,8 @@ Term: Fall 2022
 	
 **Contribution statement**:
 + All members contributed in developing the approach of model building
-+ Sangmin Lee, Donglai Xu, Yayuan Wang: research on ResNet50, model I development, split test and train on noisy labels
++ Sangmin Lee, Yayuan Wang: research on ResNet50, model I development, split test and train on noisy labels
++ Donglai Xu: Research on ResNet50. Write codes and build a transfer learning model as model I. Write codes and build a label cleaner for weakly supervise learning with Yayuan Wang. Generate plots and model description. Clean and anotate all the coding part and complete the test data prediction part. 
 + Yayuan Wang, Ferra Suryani, Woonsup Kim (presenter): Develop weakly supervising learning, and add label corrections before implementing model I. 
 
 
