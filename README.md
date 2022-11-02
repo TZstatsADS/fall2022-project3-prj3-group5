@@ -13,7 +13,7 @@ Term: Fall 2022
 	+ Woonsup Kim
 	+ Yayuan Wang
 
-+ Project summary: In this project, we created two predictive models for image classification. For Model I, we built a transfer learning model based on ResNet50 from Keras library with 27% training accuracy. For Model II, we add weakly supervised learning features to the model by correcting the noisy label with CNN architecture, which yielded 50% training accuracy. 
++ Project summary: In this project, we created two predictive models for image classification. For Model I, we built a transfer learning model based on ResNet50 from Keras library with 29% training accuracy. For Model II, we add weakly supervised learning features to the model by correcting the noisy label with CNN architecture, which yielded 52% training accuracy. 
 	
 **Contribution statement**:
 + All members contributed in developing the approach of model building
